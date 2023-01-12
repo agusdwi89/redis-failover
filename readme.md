@@ -1,5 +1,3 @@
-# Readme Redis
-
 # **Redis Failover Strategy using Spring Boot with Resilience4j**
 
 This repository will show you how to implement a redis failover strategy using Spring Boot and Resilience4j. Resilience4j is a fault tolerance library for Java 8 and functional programming. It helps to add fault tolerance to your applications by providing various functionalities such as circuit breaking, retries, and rate limiting.
